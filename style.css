@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+    background-color: #f5f5f5;;
+}
+#contact-button:hover{
+    background-color: black ;
+    border: 1px solid white;
+}
+a{
+    font-size: 18px;
+}
+p{
+    font-size: 18px;
+}
+.page-item{
+    font-size: 20px;
+}
